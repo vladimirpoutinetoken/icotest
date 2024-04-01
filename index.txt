@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livre Blanc - VLAD Token</title>
+    <style>
+        body {
+            background-color: black;
+            color: cyan;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            text-align: left;
+        }
+        h1, h2, p {
+            text-align: left;
+            color: #00FFFF;
+            text-transform: uppercase;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .community-section {
+            margin-top: 50px;
+            text-align: left;
+            color: cyan;
+            font-size: 20px;
+        }
+        .glow-text {
+            text-shadow: 0 0 10px #00FFFF;
+        }
+        .logo-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="logo-container">
+        <!-- Insérer le logo ici -->
+        <img src="chemin/vers/votre/logo.png" alt="Logo VLAD Token">
+
+
+
+    </div>
+
+    <h1 class="glow-text">Livre Blanc - VLAD Token</h1>
+
+    <h2 class="glow-text">Introduction</h2>
+    <p class="glow-text">Le VLAD Token est une crypto-monnaie basée sur la blockchain Binance. Il vise à offrir une solution de paiement et de récompense transparente et sécurisée, tout en proposant un modèle économique durable.</p>
+
+    <h2 class="glow-text">Caractéristiques du Token</h2>
+    <ul>
+        <li>Contrat : Poutine</li>
+        <li>Offre Totale : 10,000,000,000 VLAD</li>
+        <li>Brûlure Hebdomadaire : 1,000 VLAD</li>
+        <li>Distribution aux Premiers Investisseurs :
+            <ul>
+                <li>Round 1 : 50% de jetons en plus de l'investissement initial (0.0002 BNB)</li>
+                <li>Round 2 : 25% de jetons en plus de l'investissement initial (0.0006 BNB)</li>
+                <li>Round 3 : 10% de jetons en plus de l'investissement initial (0.001 BNB)</li>
+            </ul>
+        </li>
+        <li>ICO en 3 Phases :
+            <ul>
+                <li>Round 1 : 30 jours</li>
+                <li>Round 2 : 30 jours</li>
+                <li>Round 3 : 30 jours</li>
+            </ul>
+        </li>
+    </ul>
+
+    <div class="logo-container">
+        <!-- Insérer le logo ici -->
+        <img src="chemin/vers/votre/logo.png" alt="Logo VLAD Token">
+
+
+
+
+    <h2 class="glow-text">Objectifs</h2>
+    <p class="glow-text">Le VLAD Token vise à :</p>
+    <ul>
+        <li>Faciliter les transactions rapides et sécurisées sur la blockchain Binance.</li>
+        <li>Récompenser les détenteurs de jetons grâce à la brûlure hebdomadaire et à la distribution aux premiers investisseurs.</li>
+        <li>Établir une communauté engagée et croissante autour du projet.</li>
+    </ul>
+
+
+
+
+
+    <h2 class="glow-text">Mécanisme de Brûlure</h2>
+    <p class="glow-text">Chaque semaine, 1,000 VLAD seront retirés de l'offre totale et brûlés, réduisant ainsi l'approvisionnement total et potentiellement augmentant la valeur des jetons restants.</p>
+
+
+    <div class="logo-container">
+        <!-- Insérer le logo ici -->
+        <img src="chemin/vers/votre/logo.png" alt="Logo VLAD Token">
+
+
+
+    <h2 class="community-section glow-text">La Puissance de la Communauté</h2>
+    <p class="glow-text">Le VLAD Token ne craint pas ses "adversaires" Trump Token et Biden Token. Avec une communauté aussi forte et engagée, nous sommes convaincus que le VLAD Token sera largement vainqueur de cette bataille crypto-politique! Rejoignez-nous dès maintenant et soyons la force dominante sur la blockchain!</p>
+    <p class="glow-text">Alors que Trump Token et Biden Token se disputent l'attention des investisseurs, le VLAD Token préfère se concentrer sur ce qui compte vraiment - une communauté unie et prospère. Nous sommes ici pour révolutionner le monde de la finance décentralisée avec notre esprit vif, notre humour piquant et notre détermination sans faille. Rejoignez-nous et ensemble, nous créerons un avenir meilleur pour tous!</p>
+ 
+ 
+     <div class="logo-container">
+        <!-- Insérer le logo ici -->
+        <img src="chemin/vers/votre/logo.png" alt="Logo VLAD Token">
+
+ 
+</body>
+</html>
